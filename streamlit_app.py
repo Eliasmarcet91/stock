@@ -17,4 +17,4 @@ model = load_model()
 st.title('Stock Time Series and Sentiment Analysis')
 
 # User input for word or sentence
-user_input = st.text_input("Enter a word or sentence from the movie American Psycho to get its vector:", "")
+user_input = st.text_input("Enter a ticker Symbol", "")
