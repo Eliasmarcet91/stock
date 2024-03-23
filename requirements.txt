@@ -6,4 +6,4 @@ nltk
 gensim
 matplotlib==3.4.3
 tensorflow
-plotly
+pip install plotly
