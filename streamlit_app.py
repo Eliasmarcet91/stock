@@ -1,4 +1,4 @@
-!pip instal plotly
+pip instal plotly
 import streamlit as st
 import pickle
 import matplotlib.pyplot as plt
